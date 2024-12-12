@@ -1,6 +1,6 @@
 # realmchat
 
-A new Flutter project.
+A flutter mobile real time chat application, using flutter as a framework and firebase
 
 ## Getting Started
 
